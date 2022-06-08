@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469224054137",
+    "project_id": "searchviewapplication",
+    "storage_bucket": "searchviewapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469224054137:android:dc1fd2c0c11535174aa3a8",
+        "android_client_info": {
+          "package_name": "com.example.searchviewapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469224054137-her3lclggeb96d88j16rifdgcn491c6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUWPQbd7IGTaDZ6RQdXZcgDgRnqdxx8MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469224054137-her3lclggeb96d88j16rifdgcn491c6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
